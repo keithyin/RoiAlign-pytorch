@@ -1,0 +1,4 @@
+.idea/*
+
+roi_align/functions/__pycache__/*
+roi_align/modules/__pycache__/*
